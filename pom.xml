@@ -63,7 +63,7 @@
 														<directory>${project.basedir}/src/main/docker</directory>
 														<outputDirectory>/</outputDirectory>
 														<includes>
-															<include>fluentd.conf</include>
+															<include>fluent.conf</include>
 														</includes>
 														<fileMode>755</fileMode>
 													</fileSet>
